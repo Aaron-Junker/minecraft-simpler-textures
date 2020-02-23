@@ -18,3 +18,15 @@ Ich habe einfach zu wenig Zeit und Mojang macht immer schneller mit neuen Update
 **Wird das Resourcenpack, wenn es fertig ist. Etwas kosten?**
 
 Nein! Alle solllen freien Zugang zum Resourcenpack haben.
+
+**Darf ich auch existierende Dateien verbessern**
+
+Natürlich. Nimm aber trotzdem immer auf andere Rücksicht, die villeicht viel Arbeit in eine Resource gesteckt haben
+
+**Es hat noch nicht bearbeitete Dateien online. Muss das so sein**
+
+Nein die kannst du ruhig überschreiben und gestalten
+
+**Darf ich etwas machen was komplett vom Stil abweicht**
+
+Nein. Natürlich nicht
