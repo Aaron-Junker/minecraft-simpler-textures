@@ -1,4 +1,7 @@
 # minecraft-simpler-textures
+
+Aktuelle Version:0.11
+
 Minecraft simpler textures ist ein Resourcepack, indem die alten Resourcen von Minecraft genommen und einfacher, das heisst mit weniger verschiedenen Farben, gestaltet werden.
 
 Wenn ihr euch darunter nichts vorstellen könn, schaut euch doch einfach ein paar Dateien an.
